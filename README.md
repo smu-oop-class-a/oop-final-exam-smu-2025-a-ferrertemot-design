@@ -12,13 +12,16 @@
 
 ## 🎬 About
 
-A Windows desktop application for managing and browsing movies and directors. Built with C# and Windows Forms using SQLite for data persistence.
+A Windows desktop application for managing and browsing movies and directors. Built with C# 
+and Windows Forms using SQLite for data persistence.
 
 ---
 
 ## 📋 Exam Task Overview
 
-Implement a **Director Management System** for the Nitplekz application. You will create data models, implement database operations using the repository pattern, and build a UI form. This task builds on the existing Movie management system—follow the same patterns you see there.
+Implement a **Director Management System** for the Nitplekz application. You will create data models, 
+implement database operations using the repository pattern, and build a UI form. This task builds on 
+the existing Movie management system—follow the same patterns you see there.
 
 ---
 
