@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SQLite;
 
-namespace OOP.FinalTerm.Exam
+namespace OOP.FinalTerm.Exam.Model
 {
     public class PersonModel
     {
@@ -14,6 +14,6 @@ namespace OOP.FinalTerm.Exam
 
         public string FirstName { get; set; }
 
-        public string LastName {  get; set; }
+        public string LastName { get; set; }
     }
 }
